@@ -1,0 +1,1 @@
+class Drinks(db.Model):
